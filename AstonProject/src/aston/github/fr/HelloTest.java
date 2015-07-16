@@ -4,7 +4,7 @@ public class HelloTest {
 
 	public static void main(String[] args) {
 
-		System.out.println("Initialisation des sources");
+		System.out.println("Commit version 1");
 	}
 
 }
