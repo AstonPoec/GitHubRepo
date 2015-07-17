@@ -4,7 +4,7 @@ public class HelloTest {
 
 	public static void main(String[] args) {
 
-		System.out.println("Commit version 5");
+		System.out.println("Commit test multi user");
 	}
 
 }
